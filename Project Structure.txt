@@ -1,0 +1,15 @@
+metadata-service/
+├── app/
+│   ├── main.py
+│   ├── db.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── crud.py
+│   ├── lineage.py
+│   └── config.py
+├── alembic/
+├── alembic.ini
+├── docker-compose.yml
+├── Dockerfile
+├── pyproject.toml
+└── .env
